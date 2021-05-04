@@ -1,0 +1,18 @@
+[
+	{
+		"emotion": "Energetic"
+		"value": "5"
+	},
+	{
+		"emotion": "Chill"
+		"value": "1"
+	},
+	{
+		"emotion": "Sentimental"
+		"value": "2"
+	},
+	{
+		"emotion": "Vulnerable"
+		"value": "1"
+	}
+]

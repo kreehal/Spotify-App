@@ -1,0 +1,17 @@
+.section-footer {
+  position: absolute;
+  padding: 10%;
+  text-align: center;
+  color: white;
+  font-family: 'Oswald', sans-serif;
+  display: flex;
+  background: linear-gradient(45deg, #089cd1, white);
+}
+
+.column {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  float: left;
+  width: 33.33%;
+}

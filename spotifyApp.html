@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/spotifyAppStyles.css">
+    <link rel="stylesheet" href="css/timelineStyles.css">
+    <link rel="stylesheet" href="css/modalStyles.css">
+    <link rel="stylesheet" href="css/aboutSection.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/britecharts/dist/css/britecharts.min.css"
+        type="text/css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-selection/1.2.0/d3-selection.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/britecharts@2/dist/umd/bar.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/britecharts@2.10.0/dist/umd/colors.min.js"></script>
+
+</head>
+
+<body>
+
+  <div id = "parent">
+    <A HREF = "startingpage.html" class="backButton"> back </A>
+
+    <div class="timeline-container" id="timeline-1">
+      <div class="timeline-header">
+        <h2 class="timeline-header__title">Spotify History and Your Mood</h2>
+      </div>
+      <div class="timeline">
+        <div class="timeline-item" data-text="Feeling: Soothing" >
+         <div class="timeline__content"><img class="timeline__img" />
+           <button id = "myBtn" class = "btn timeline__content-title" > Session on 4/7/2021 </button>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img"/>
+           <button id = "myBtn" class = "btn timeline__content-title" > Session on 4/6/2021 </button>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img" />
+           <h2 class="timeline__content-title">Session on 4/6/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img" />
+           <h2 class="timeline__content-title">Session on 4/4/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img" />
+           <h2 class="timeline__content-title">Session on 4/3/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img" />
+           <h2 class="timeline__content-title">Session on 4/2/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img"/>
+           <h2 class="timeline__content-title">Session on 4/1/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img"/>
+           <h2 class="timeline__content-title">Session on 3/31/2021</h2>
+         </div>
+        </div>
+        <div class="timeline-item" data-text="">
+         <div class="timeline__content"><img class="timeline__img" />
+           <h2 class="timeline__content-title">Session on 3/30/2021</h2>
+         </div>
+        </div>
+      </div>
+    </div>
+    <div class = "timeline-container">
+      <A HREF = "startingpage.html" class = "seeMoreBtn"> See More </A>
+    </div>
+  </div>
+
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <span class="close">&times;</span>
+        <h2>Your Mood For This Session: Soothing</h2>
+      </div>
+      <div class="modal-body">
+        <!--
+        <textarea class="scrollabletextbox" name="dummy">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent auctor volutpat semper. Morbi sed lectus id quam consectetur maximus quis eu turpis. Sed maximus quis mauris ut hendrerit. Aliquam lobortis ultricies vestibulum. Ut commodo lacus et arcu bibendum, ac ullamcorper turpis imperdiet. Morbi quis sodales odio. In eget urna turpis. Etiam nec sapien ac purus mattis porttitor nec at turpis. Fusce enim dolor, blandit eget pretium nec, blandit in neque. Vestibulum eu pulvinar odio. Proin id metus sollicitudin, bibendum ligula vitae, lobortis felis. Vestibulum sit amet dolor purus. In hac habitasse platea dictumst. Proin vestibulum, libero ac vulputate tincidunt, lectus purus lobortis purus, eget convallis orci mi ut dolor.
+        </textarea>
+        -->
+        <table>
+          <!--
+            show the table generated in build-table.js using the data from the sessions
+          -->
+        </table>     
+        <!--<div class="piechart"> </div>-->
+        <div class="bar-container"></div>
+        <br><br>
+        <div class="paragraph-text">
+            <p> Your taste in music during this Spotify session indicated that you may have been feeling: soothing! <br><br>
+            After analyzing the audio features–such as the danceability, valence, and tempo–of all your songs in this listening session, our Machine Learning model determined the predominant mood was most accurately labeled as soothing. More specifically, the mood of the songs were likely a combination of the following associated emotional states: calm, focused, relaxed, or sleepy. Spotify uses a more comprehensive Machine Learning Model that would utilize this predicted emotional state to get a better outlook on your personality and preferred music choice. Ultimately, Spotify could then provide you with more enjoyable song recommendations that encourage you to subscribe to Spotify Premium or listen to more ads.</p>
+        </div>
+      </div>
+    </div>
+    </div>
+  </div>
+
+  <div class = "section-footer">
+    <div class = "column">
+      <img src="https://uploads-ssl.webflow.com/60130a06433f8a9df0a493d2/60146049d6cf9585df0a302c_Asset%2040logo-ml-v2-white-blue.svg" width="80%" alt="">
+    </div>
+    <div class = "column">
+      <img src="https://brandpalettes.com/wp-content/uploads/2018/11/Spotify_Logo_CMYK_Green.png" width="80%" alt="">
+    </div>
+    <div class = "column">
+      <img src="https://uploads-ssl.webflow.com/5e2da1d25b8bed633cb12288/60757e1d99f53776ff3da663_Group%20797%20(4)%20(1).png" width="80%" alt="">
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <script src = "js/spotifyApp.js"></script>
+  <script type='module' src = "js/dataAnalysis.js"></script>
+  <script src = "js/chart.js"></script>
+  <script src="js/build-table.js"></script>
+
+</body>
+</html>

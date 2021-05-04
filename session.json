@@ -1,0 +1,7 @@
+[
+    { name: 'Energetic', value: 5 },
+    { name: 'Powerful', value: 4 },
+    { name: 'Soothing', value: 7},
+    { name: 'Upbeat', value: 3 },
+    { name: 'Wistful', value: 2 }
+];

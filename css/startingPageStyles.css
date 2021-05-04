@@ -1,0 +1,93 @@
+body {
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background-size: 5000% 5000%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0%
+     50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.button{
+  position: absolute;
+  border-radius: 25px;
+  display: block;
+  background-color: transparent;
+  border: solid;
+  border-color: white;
+  color: white;
+  padding: 0.7% 2%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-family: 'Oswald', sans-serif;
+  width: 10%;
+  top: 76%;
+  font-size: 1.5em;
+  left: 43%;
+  transition: 0.4s
+
+}
+
+.active, .button:hover {
+  position: absolute;
+  top: 76.5%;
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  animation: gradient 15s ease infinite;
+  background-size: 5000% 5000%;
+}
+
+.gradient-card {
+  position: absolute;
+  padding: 2%;
+  width: 50%;
+  height: 50%;
+  top: 14%;
+  left: 22%;
+  border-radius: 1.5rem;
+  background-image: linear-gradient(150deg,#ff5160,#ff0073);
+  box-shadow: 1px 1px 3px 0 rgb(0 0 0 / 30%);
+  font-family: Inter,sans-serif;
+  color: #fff5f5;
+  border: solid;
+  overflow: auto;
+}
+
+.intro-text {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  font-size: 2em;
+}
+
+::-webkit-scrollbar {
+  width: 20px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: inherit;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: white;
+  border-radius: 20px;
+  border: 6px solid transparent;
+  background-clip: content-box;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: white;
+}

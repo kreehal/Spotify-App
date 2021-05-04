@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Oswald&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700i" rel="stylesheet">
+    <link rel="stylesheet" href="css/startingPageStyles.css">
+    <link rel="stylesheet" href="css/timelineStyles.css">
+    <link rel="stylesheet" href="css/accordion.css">
+</head>
+  <body>
+    <div class="timeline-header">
+      <h2 class="timeline-header__title">Spotify Data and Mental State</h2>
+    </div>
+
+    <div class = "intro-section">
+
+    </div>
+
+
+    <div class="gradient-card">
+      <p class = "intro-text">
+        <b> Introduction: </b><br>
+        In a world where personal data is becoming less and less private,
+        we wanted to investigate the extent to which users' individual information
+        was used by the private sector. Our website allows users to enter their own
+        Spotify listening data, and receive a visualization of the insights that
+        Spotify has the ability to collect. Our program is designed only to
+        educate consumers, and does not store users' individual data. <br><br>
+
+        <b> Our Product Journey: </b> <br>
+
+      	We took each user’s recently played music, and separated
+        it into distinct listening sessions, which we deemed to be
+        any listening activity that had more than 10 songs,
+        with sessions being separated by any breaks of 30 minutes or more.
+        Once split into listening sessions, we assigned each song an emotional
+        group. The assignment was based on an analysis of the song’s audio
+        features in comparison with data we had previously obtained for that
+        emotional group. From there, we were able to calculate summary statistics
+        for each listening session, based on each song’s emotional group. <br>
+
+      	Finally, we analyzed the summary statistics of each session in the context of prior research done on
+        the relationship between mood and music choice. Basing our work off of previous findings, we developed
+        a model that would predict user mood for each listening session, which we displayed alongside the
+        summary statistics for user benefit. If you are interested in learning more about our research, data collection and analysis, or emotional analysis framework, you can find a detailed slideshow describing our work <a href="http://bit.ly/ethiTeam3">here</a>.
+      </p>
+    </div>
+    <button class="accordion">How to Download Your Data</button>
+      <div class="panel">
+        <p class="panelText">
+            Step 1: Go to Spotify.com on your preferred browser and click Profile > Account. It should be
+            located in the top-right corner of the webpage. <br>
+            Step 2: Click on Privacy Settings <br>
+            Step 3: Scroll down to the “Download your data” section and click on ‘Request’ button
+        </p>
+      </div>
+    <div>
+      <A HREF = "spotifyApp.html" class="button"> Your Data </A>
+    </div>
+    &nbsp;
+  <script src = "js/startingPage.js"></script>
+  </body>
+</html>

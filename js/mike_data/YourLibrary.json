@@ -1,0 +1,953 @@
+{
+  "tracks": [
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Lethal Combination"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "Sweet November - 2016 Remaster"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "My Tears Are Becoming a Sea"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "Here I'll Stay - 2016 Remaster"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Cheetah Tongue"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "If My Friends Could See Me Now - 2016 Remaster"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Out of My Head"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Fields Of Gold"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Be"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Pink Lemonade"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Every Little Thing She Does Is Magic"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Talk"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Message In A Bottle"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Ludivine"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Road Blaster"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "When We Dance"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "To Noise Making (Sing)"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "If You Love Somebody Set Them Free"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "No Plan"
+    },
+    {
+      "artist": "Manian",
+      "album": "Football's Coming Home",
+      "track": "Ravers In The UK - Video Edit"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "\"Men of Harlech\" / End Title (From \"Zulu\")"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Interlude"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Sunday Night 1987"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Nina Cried Power (feat. Mavis Staples)"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "New Map"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "The Wizard"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "The John Dunbar Theme (From \"Dances with Wolves\")"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Walkway Blues"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Men of Harlech (From \"Zulu\")"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "Murmurations"
+    },
+    {
+      "artist": "They Dream By Day",
+      "album": "Pruina",
+      "track": "Pruina"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "The Defeat"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Fragile"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Time Wind"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Titles / News of the Massacre / Rorke's Drift Threatened (From \"Zulu\")"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "Somebody - 2016 Remaster"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Walking On The Moon"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "There's Your Man"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "All Down The Mines (Interlude)"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Ice Cream"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Wasteland, Baby!"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Splendor"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Stand Up"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Wanderlust"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Black Flamingo"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "The Depression Hits / Best Beats the Sandman / The Cotton Club (From \"The Cotton Club\")"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "A Game of Badminton (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Desert Rose"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Intro"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Life on the Moors (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Frances",
+      "album": "Fifty Shades Darker",
+      "track": "What Is Love?"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Mrs. Reed is Not Quite Finished (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Can't Stand Losing You"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Just For Tonight"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Every Breath You Take"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Train to Pluton"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Tension"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Awaken (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "Nica Libres At Dusk"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Steve Mcqueen"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "I've Got You Under My Skin - 2016 Remaster"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Year One, One Ufo"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Slide"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "De Do Do Do, De Da Da Da"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "The Girl with the Sun in Her Hair"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Claudia Lewis"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Do You Never Laugh, Miss Eyre? (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Dip You in Honey"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "The Deep (From \"The Deep\")"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "First Zulu Appearance and Assault (From \"Zulu\")"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "So Lonely"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "She Believes in Me - 2016 Remaster"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Suite (From \"My Sister's Keeper\")"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "In Jest or Earnest (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Don't Stand So Close To Me"
+    },
+    {
+      "artist": "Gavin James",
+      "album": "Bitter Pill",
+      "track": "22"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Klaus I Love You"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "This Bright Flash"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Lemon to a Knife Fight"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Main Title / Moses in the River / An Elephant Called Emily / The Dam / \"What Would I Do for Laughs\" (From \"Mister Moses\")"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Dinner & Diatribes"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "I Don't Know Why I Like You but I Do"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Laser Gun"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Florida Fantasy (From \"Midnight Cowboy\")"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Fade Out"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "A Thorough Education (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Where the Boats Go"
+    },
+    {
+      "artist": "Lostboycrow",
+      "album": "Love Won't Sleep",
+      "track": "Love Won't Sleep"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "White Eyes"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "My Personal Property - 2016 Remaster"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Wait"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "I Found You"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "The End of Childhood (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Wasted On Each Other"
+    },
+    {
+      "artist": "Flume",
+      "album": "Flume",
+      "track": "Holdin On"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Englishman In New York"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Seven Days"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Nobody"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "Turn"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "What The Moon Does"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Theme / Isandhlwana (From \"Zulu\")"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Main Title / Bogota 1984 / \"Did You Call Me?\" (From \"The Specialist\")"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Almost (Sweet Music)"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Atlantique Sud"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Bromhead's Safari / Wagons Over (From \"Zulu\")"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Go!"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "My Edward and I (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Elvis Presley",
+      "album": "Blue Hawaii",
+      "track": "Can't Help Falling in Love"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "The Call Within (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "If I Ever Lose My Faith In You"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Brand New Day"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Sugar Drunk High"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "I've Gotta Be Me - 2016 Remaster"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Fountains"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "\"You're All Going to Die\" (From \"Zulu\")"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "For the Kids"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "In My Head"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Jane's Escape (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "The Story Ends (From \"Mercury Rising\")"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Yes! (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Wild Love"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "An Insuperable Impediment (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Ziv Zaifman",
+      "album": "The Greatest Showman (Original Motion Picture Soundtrack)",
+      "track": "A Million Dreams"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Do It, Try It"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "I'm Glad There Is You - 2016 Remaster"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light",
+      "track": "Us"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "King Rat (From \"King Rat\")"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Intro"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "A Boat To An Island On The Wall"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Ok Pal"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Soon, My Friend"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Zulu's Final Appearance and Salute (From \"Zulu\")"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Waiting for Mr. Rochester (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Midnight City"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "White Skin Like the Moon (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Main Theme (From \"The Last Valley\")"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Another Wave from You"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Movement"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Raconte-moi une histoire"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Love Among the Ruins (From \"Love Among the Ruins\")"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Sunlight"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "A Restless Night (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life",
+      "track": "I Only Wear Black"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Bibi the Dog"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Would That I"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Frances (From \"Frances\")"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Suite (From \"The Tamarind Seed\")"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Arrival at Thornfield Hall (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "Wandering Jane (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Durnford's Horses Arrive and Depart / The Third Assault (From \"Zulu\")"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "A Boat To An Island Pt. 2 / Agatha's Song"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Echoes of Mine"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Outro"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "Reunion"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Prelude and Love Theme (From \"King Kong\")"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "As It Was"
+    },
+    {
+      "artist": "The Police",
+      "album": "The Very Best Of Sting And The Police",
+      "track": "Roxanne"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Moon Crystal"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "Someone In The Doorway"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk",
+      "track": "Solitude"
+    },
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry",
+      "track": "Hammett (From \"Hammett\")"
+    },
+    {
+      "artist": "Dorothy Ella",
+      "album": "2 Ways",
+      "track": "2 Ways"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming",
+      "track": "When Will You Come Home?"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream",
+      "track": "Towing The Line"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition",
+      "track": "I'm a Brass Band - 2016 Remaster"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack",
+      "track": "The Wedding Dress (feat. Jack Liebeck)"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!",
+      "track": "Shrike"
+    }
+  ],
+  "albums": [
+    {
+      "artist": "The City of Prague Philharmonic Orchestra",
+      "album": "Zulu: The Film Music of John Barry"
+    },
+    {
+      "artist": "Ben Howard",
+      "album": "Noonday Dream"
+    },
+    {
+      "artist": "The Wombats",
+      "album": "Beautiful People Will Ruin Your Life"
+    },
+    {
+      "artist": "Sammy Davis Jr.",
+      "album": "I've Gotta Be Me - Remastered Audiophile Edition"
+    },
+    {
+      "artist": "Vance Joy",
+      "album": "Dream Your Life Away"
+    },
+    {
+      "artist": "M83",
+      "album": "Junk"
+    },
+    {
+      "artist": "Dario Marianelli",
+      "album": "Jane Eyre - Original Motion Picture Soundtrack"
+    },
+    {
+      "artist": "Hozier",
+      "album": "Wasteland, Baby!"
+    },
+    {
+      "artist": "M83",
+      "album": "Hurry up, We're Dreaming"
+    },
+    {
+      "artist": "James Bay",
+      "album": "Electric Light"
+    },
+    {
+      "artist": "Les Misérables Cast",
+      "album": "Les Misérables: The Motion Picture Soundtrack Deluxe"
+    },
+    {
+      "artist": "Dorothy Ella",
+      "album": "2 Ways"
+    },
+    {
+      "artist": "Sting",
+      "album": "The Very Best Of Sting And The Police"
+    }
+  ],
+  "shows": [
+    {
+      "name": "Acquired",
+      "publisher": "Ben Gilbert and David Rosenthal"
+    },
+    {
+      "name": "Elon Musk Interviews",
+      "publisher": "The Real Ironman"
+    },
+    {
+      "name": "Exponential View with Azeem Azhar",
+      "publisher": "HBR Presents / Azeem Azhar"
+    },
+    {
+      "name": "How I Built This with Guy Raz",
+      "publisher": "NPR"
+    },
+    {
+      "name": "How To Fail With Elizabeth Day",
+      "publisher": "howtofail"
+    },
+    {
+      "name": "How to Start a Startup",
+      "publisher": "Y Combinator and Stanford University: Sam Altman, Dustin Moskovitz, Paul Graham, Adora Cheung, Peter Thiel, Alex Schultz, Kevin Hale, Marc Andreessen, Ron Conway, Ben Silbermann, Alfred Lin, Patrick and John Collison, Aaron Levie, Reid Hoffman & more"
+    },
+    {
+      "name": "In Depth",
+      "publisher": "First Round"
+    },
+    {
+      "name": "Invest Like the Best",
+      "publisher": "Patrick O'Shaughnessy"
+    },
+    {
+      "name": "Lex Fridman Podcast",
+      "publisher": "Lex Fridman"
+    },
+    {
+      "name": "North Star Podcast: Hosted by David Perell",
+      "publisher": "David Perell"
+    },
+    {
+      "name": "Spearhead",
+      "publisher": "Naval"
+    },
+    {
+      "name": "StartUp Podcast",
+      "publisher": "Gimlet"
+    },
+    {
+      "name": "The Knowledge Project",
+      "publisher": "Shane Parrish, Farnam Street"
+    }
+  ],
+  "episodes": [
+  ],
+  "bannedTracks": [
+  ],
+  "other": [
+  ]
+}
