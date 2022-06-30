@@ -1,7 +1,7 @@
 # README
 
 ## Introduction
-This is the repository for team 3 of Menon Lab's partnership with Ethi for Spotify Mental Health Analysis. Full documentation of our research and approach can be found [here](https://docs.google.com/presentation/d/1qdsqhDewn71UK8f01SKe19toxlxWUn4EqRzBuCLDMEM/edit?usp=sharing). 
+This is the repository for team 3 of Menon Labs' partnership with Ethi for Spotify Mental Health Analysis. Full documentation of our research and approach can be found [here](https://docs.google.com/presentation/d/1qdsqhDewn71UK8f01SKe19toxlxWUn4EqRzBuCLDMEM/edit?usp=sharing). 
 
 ## Demo Visualization
 The demonstration webpage can be found by opening ``startingPage.html`` in any web browser. The webpage is statically loaded and demonstrates the kind of data that would be available in the final product to the user. Currently, only the first entry in the timeline is populated with a sample session.
