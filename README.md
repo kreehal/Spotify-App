@@ -12,3 +12,5 @@ Full documentation of the team's data analysis can be found in the ``notebooks``
 ## Machine Learning Demo
 A demonstration for the backend information in the webpage can be executed in the ``script`` folder. First, download node.js and add it to path. Then, in the terminal, navigate to the scripts folder. Currently, the ``script/my_data`` folder contains sample data from our team member, Shania Sinha. If you'd like, you can replace the folder with your own data downloaded from Spotify. You can then run the script by running ``node dataAnalysis.js`` in the terminal. The script will output information about each listening session to the terminal. Full documentation of the fields in the session object can be found in ``script/dataAnalysis.js``
 
+## Contributors
+Shania Sinha, Ashna Sood, Shubhum Agrawal, Kerrn Reehal, Rohil Khatkhate, Sergio Macias-Vazquez 
